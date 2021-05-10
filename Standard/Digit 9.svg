@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Digit 9.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="118.18098"
+     inkscape:cy="357.60724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     guidecolor="#000000"
+     guideopacity="0.49803922"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,169.33334"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,254"
+       orientation="0,-1"
+       id="guide20"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,275.16667"
+       orientation="1,0"
+       id="guide22"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="84.666666,275.16667"
+       orientation="1,0"
+       id="guide26"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="127,275.16667"
+       orientation="1,0"
+       id="guide28"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,84.666669"
+       orientation="0,-1"
+       id="guide3016"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3426"
+       style="opacity:0.999;fill:#000000;stroke:none;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round"
+       d="m 47.859095,179.91666 c 24.254771,-9e-5 44.695929,-18.22874 47.390904,-42.33333 V 58.208333 52.916666 C 92.555024,28.81208 71.879773,10.583423 47.625,10.583333 21.32244,10.583333 0,31.905773 0,58.208333 c 0,26.302559 21.32244,47.624997 47.625,47.624997 9.419055,-2e-5 18.626595,-2.79303 26.458333,-8.025863 V 137.58333 C 71.568759,149.90218 60.431965,158.75011 47.859095,158.75 35.930821,158.74987 25.571003,150.78311 22.392431,139.44678 L 2.655136,147.3016 c 6.335866,19.12043 24.335491,32.61499 45.203959,32.61506 z M 47.625,84.666666 c -14.612536,0 -26.458333,-11.845798 -26.458333,-26.458333 C 21.166667,43.595797 33.012464,31.75 47.625,31.75 c 14.612535,0 26.458334,11.845797 26.458333,26.458333 10e-7,14.612535 -11.845798,26.458333 -26.458333,26.458333 z" />
+  </g>
+</svg>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Capital S.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="-12.888839"
+     inkscape:cy="340.93381"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     guidecolor="#000000"
+     guideopacity="0.49803922"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       dotted="true"
+       originx="0"
+       originy="0"
+       visible="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,84.666669"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,169.33334"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,254"
+       orientation="0,-1"
+       id="guide20"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,275.16667"
+       orientation="1,0"
+       id="guide22"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="84.666666,275.16667"
+       orientation="1,0"
+       id="guide26"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="127,275.16667"
+       orientation="1,0"
+       id="guide28"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2410"
+       style="opacity:0.999;fill:#000000;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round"
+       d="M 63.5,11.252546 A 63.499997,47.624999 0 0 0 0.02584021,58.877545 63.499997,47.624999 0 0 0 52.916667,105.83333 v 0.66921 A 42.33333,26.458331 0 0 1 95.25,132.96088 42.33333,26.458331 0 0 1 52.916667,159.41921 42.33333,26.458331 0 0 1 16.816028,146.77967 l -12.93926,16.43569 a 63.499997,47.624999 0 0 0 49.014062,17.37052 63.499997,47.624999 0 0 0 0.02584,0 63.499997,47.624999 0 0 0 0.02584,0 63.499997,47.624999 0 0 0 63.47416,-47.625 A 63.499997,47.624999 0 0 0 63.525839,86.005089 V 85.335878 A 42.33333,26.45833 0 0 1 21.192507,58.877545 42.33333,26.45833 0 0 1 63.525839,32.419212 42.33333,26.45833 0 0 1 99.626478,45.058749 L 112.56574,28.623061 a 63.499997,47.624999 0 0 0 -49.014061,-17.370515 63.499997,47.624999 0 0 0 -0.02584,0 63.499997,47.624999 0 0 0 -0.02584,0 z" />
+  </g>
+</svg>
