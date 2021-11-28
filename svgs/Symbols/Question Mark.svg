@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27"
+   height="27"
+   viewBox="0 0 7.14375 7.1437502"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Question Mark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title836">Serarif</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="17.125"
+     inkscape:cx="24.759124"
+     inkscape:cy="13.751825"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       dotted="true" />
+    <sodipodi:guide
+       position="0,1.8520834"
+       orientation="0,-1"
+       id="guide826" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide828" />
+    <sodipodi:guide
+       position="0,6.3500001"
+       orientation="0,-1"
+       id="guide830" />
+    <sodipodi:guide
+       position="1.3229167,7.1437502"
+       orientation="1,0"
+       id="guide832" />
+    <sodipodi:guide
+       position="0,7.1437502"
+       orientation="0,-1"
+       id="guide829" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path5617"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:normal"
+       d="M 2.5130257,0.79375001 C 1.8609945,0.79375107 1.3317776,1.3179047 1.3229167,1.9678386 l 0.5317516,0.077515 c -0.002,-0.02013 -0.0031,-0.040598 -0.0031,-0.060978 0,-0.3653131 0.2961481,-0.6614583 0.6614583,-0.6614583 0.3143012,3.41e-5 0.5851631,0.2212247 0.6480228,0.5291667 0.0298,0.4252359 -0.1607423,0.580812 -0.3348646,0.8397419 L 2.2448265,3.492294 2.2484465,4.4979173 H 2.7776091 V 3.6597249 L 3.3103926,2.9259197 C 3.5422231,2.5564357 3.6939299,2.4103693 3.694348,1.8520834 3.67665,1.2667353 3.1186649,0.79473188 2.5130257,0.79375001 Z"
+       sodipodi:nodetypes="cccscccccccccc" />
+    <path
+       id="path6008"
+       style="stroke-width:0.0264583;stroke-linejoin:bevel"
+       d="m 2.7776093,5.0270829 a 0.26458332,0.26458332 0 0 1 -0.26458,0.264584 0.26458332,0.26458332 0 0 1 -0.26458,-0.264584 0.26458332,0.26458332 0 0 1 0.26458,-0.264583 0.26458332,0.26458332 0 0 1 0.26458,0.264583 z" />
+  </g>
+  <metadata
+     id="metadata834">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="OFL 1.1" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>nahkd123</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Serarif</dc:title>
+        <dc:description>Serarif Remastered</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
